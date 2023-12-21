@@ -1,0 +1,26 @@
+{
+  "name": "web_crawler",
+  "version": "1.0.0",
+  "description": "construire un robot d'exploration web",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farisbrandone/web_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farisbrandone/web_crawler/issues"
+  },
+  "homepage": "https://github.com/farisbrandone/web_crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
